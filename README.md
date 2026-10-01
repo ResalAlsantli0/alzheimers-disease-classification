@@ -85,14 +85,3 @@ data/alzheimer_disease_patient.csv
 - Preprocessing and tuning should be placed inside cross-validation pipelines for a production-grade evaluation and to avoid data leakage.
 - Clinical deployment would require external validation, bias analysis, calibration, explainability, privacy safeguards, and specialist review.
 
-## Team
-
-Developed collaboratively for the DS312 Data Mining course at Princess Nourah bint Abdulrahman University by:
-
-- Alhanouf Alsaiary
-- Haya Altmmami
-- Summer Alhamail
-- Resal Alsantli
-- Lena Aldokhayel
-
-Team attribution is retained without publishing student identification numbers.
