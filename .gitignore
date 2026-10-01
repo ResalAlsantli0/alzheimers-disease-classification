@@ -1,0 +1,19 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local dataset
+data/*.csv
+data/*.xlsx
+data/*.parquet
+
+# Editors and operating-system files
+.DS_Store
+.idea/
+.vscode/
+
